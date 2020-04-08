@@ -1,2 +1,0 @@
-# ReactFormComponent
-Created with CodeSandbox
